@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BhumikaJha
 - 👀 I’m interested in building projects.
 - 🌱 I’m currently working on projects.
-- 📫 Yiu can reach me via LinkedIN www.linkedin.com/in/bhumika-jha-5b29862b7
+- 📫 You can reach me via LinkedIN www.linkedin.com/in/bhumika-jha-5b29862b7
 - 😄 Pronouns: Data Analyst Enthusiast| C|C++|Java|Python|Power BI|Tableau|SQL|Excel.
 
 <!---
